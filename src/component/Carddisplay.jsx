@@ -104,7 +104,7 @@ export default class Carddisplay extends React.Component {
               width: "50px",
               borderRadius: "5px",
             }}
-            alt="ogo"
+            alt="logo"
             src="/chip1.JPG"
           />
           <br /> <br /> <br />
